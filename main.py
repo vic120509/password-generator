@@ -24,7 +24,7 @@ init(convert=True)
 while True:
     print('$'*30,'yellow')
     print()
-    print(("WELCOME TO PASSWORD MANAGER",'green')
+    print("WELCOME TO PASSWORD MANAGER",'green')
     print()
     print('$'*30,'yellow')
     print()
@@ -108,6 +108,7 @@ while True:
         print("Thank You for using the program!",'green')
         print('%'*35,'yellow')
         break
+
 
 
 
